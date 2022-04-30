@@ -1,8 +1,16 @@
 import React from 'react'
+import Image from 'next/image'
 
-function ProductCard() {
+interface ProductCardProps {
+  src: string,
+  title: string,
+}
+
+function ProductCard({src, title}: ProductCardProps) {
   return (
-    <div>ProductCard</div>
+    <div>
+      <Image width={623} height={490} alt='' src={src} />
+    </div>
   )
 }
 

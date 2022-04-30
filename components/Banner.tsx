@@ -4,7 +4,7 @@ import Button from './Button'
 
 function Banner() {
   return (
-    <div className='flex justify-between items-center space-x-3'>
+    <div className='flex justify-between items-center space-x-3 py-10'>
         <div className='flex flex-col space-y-3'>
           <p className='text-white font-Roboto font-normal text-sm'>
             <span className='bg-black p-[1px]'>&nbsp;Whether Checking The Blinds&nbsp;</span>
