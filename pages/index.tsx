@@ -6,6 +6,7 @@ import TopBar from '../components/TopBar'
 import Products from '../components/Products'
 import FeaturedItems from '../components/FeaturedItems'
 import About from '../components/About'
+import Tagline from '../components/Tagline'
 
 const Home: NextPage = () => {
   return (
@@ -20,6 +21,8 @@ const Home: NextPage = () => {
           <FeaturedItems />
           <About />
       </div>
+
+      <Tagline />
 
     </div> 
   )
