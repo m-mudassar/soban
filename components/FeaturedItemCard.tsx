@@ -30,7 +30,7 @@ function FeaturedItemCard({src, model, price, discount, rating, ratingCount}: It
       </div>
 
       <div className='pb-10'>
-        <p className='bg-[#FEBD11] text-right w-4/5'>
+        <p className='bg-[#FFF2CF] text-right w-4/5'>
           <span className='text-black font-Oswald font-normal text-lg uppercase'>{model}</span>
         </p>
       </div>

@@ -12,7 +12,7 @@ function Banner() {
           <p className='text-white font-Roboto font-normal text-sm'>
             <span className='bg-black p-[1px]'>&nbsp;Or Riding The Trails&nbsp;</span>
           </p>
-          <p className='text-black font-Oswald font-normal text-2xl'>
+          <p className='text-black font-Oswald w-80 block font-normal text-2xl'>
             <span className='bg-[#FEBD11] p-1'>The Compact T-BOSS 410 Delivers</span>
           </p>
 
