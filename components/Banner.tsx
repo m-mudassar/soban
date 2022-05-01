@@ -23,10 +23,10 @@ function Banner() {
 
         <div className='flex items-center space-x-5'>
           <div >
-            <Image src='/static/images/banner1.png' width={59} height={472} alt='' />
+            <Image src='/static/images/banner/banner1.png' width={59} height={472} alt='' />
           </div>
-          <div><Image src='/static/images/banner2.png' width={59} height={472} alt='' /></div>
-          <div><Image src='/static/images/banner3.png' width={733} height={472} alt='' /></div>
+          <div><Image src='/static/images/banner/banner2.png' width={59} height={472} alt='' /></div>
+          <div><Image src='/static/images/banner/banner3.png' width={733} height={472} alt='' /></div>
         </div>
     </div>
   )
