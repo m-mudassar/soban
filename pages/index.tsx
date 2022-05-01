@@ -10,6 +10,7 @@ import Tagline from '../components/Tagline'
 import Details from '../components/Details'
 import Testimonials from '../components/Testimonials'
 import Location from '../components/Location'
+import Footer from '../components/Footer'
 
 const Home: NextPage = () => {
   return (
@@ -33,7 +34,7 @@ const Home: NextPage = () => {
       </div>
 
       <Location />
-      
+      <Footer />
     </div> 
   )
 }

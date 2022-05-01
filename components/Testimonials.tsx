@@ -86,23 +86,14 @@ function Testimonials() {
               </p>
               <p className='font-Oswald font-light text-xs text-black uppercase my-5'>MARK GINDER, MI</p>
 
-              <p className='flex justify-center'>
+              <div className='flex justify-center list-disc'>
                   <li className='text-black'></li>
                   <li className='text-[#E0E0E0]'></li>
                   <li className='text-[#E0E0E0]'></li>
                   <li className='text-[#E0E0E0]'></li>
                   <li className='text-[#E0E0E0]'></li>
-              </p>
+              </div>
           </div>
-          {/* <div className='flex justify-center w-[555px]'>
-            <ul className='flex space-x-5 list-disc'>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul>
-          </div> */}
         </div>
 
         <div>
